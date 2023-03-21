@@ -1,19 +1,19 @@
 //Grade Covertion Function
 
 function Convert() {
-let number=parseInt(grade.value);
-if (number=>101){
+let marks=parseInt(grade.value);
+if (marks=>101){
     grade="Please input valid marks";}
-    else if(number=>80){
+    else if(marks=>80){
         grade="Congratulations your grade is A"
     }
-    else if(number=>60){
+    else if(nmarks=>60){
         grade="your grade is B";}
-    else if(number=>49){
+    else if(marks=>49){
         grade="your grade is C"}
-    else if(number=>40){
+    else if(marks=>40){
         grade="your grade is D"}
-    else if(number<40, number>0){
+    else if(marks<40,marks>0){
         grade="Your grade is E"}
     else{
         grade="Kindly input correct marks"
