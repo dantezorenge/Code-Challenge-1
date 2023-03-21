@@ -1,6 +1,6 @@
 //Grade Covertion Function
 
-function Convert() {
+function getStudentGrade() {
 let marks=parseInt(grade.value);
 if (marks=>101){
     grade="Please input valid marks";}
