@@ -1,0 +1,23 @@
+#Traffic Law Enforcement Program
+
+
+#Description
+This program allows a user to enter their speed and determine whether they have broken the speed limit and how many demerit points they have accumulated. The program prints the appropriate message to the console.
+
+
+
+Project Setup
+To run the program, follow these steps:
+
+.Copy the code from the JavaScript file.
+.Create an HTML file with an input field and a button to run the program.
+.Link the JavaScript file to the HTML file.
+.Open the HTML file in a web browser and enter a speed in the input field to run the program.
+.Open the console in your web browser to view the output.
+
+
+
+
+
+#Author & License
+This program was written by [Daniel Orenge]. It is licensed under the MIT License. Feel free to modify and use the code as you see fit.
